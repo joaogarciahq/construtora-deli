@@ -2,13 +2,15 @@
 
 > Atualizado em 27/10/2026. 🔴 problema · 🟡 sem informação · 🟢 resolvido.
 
-**Para resolver a urgência do pai, falta:**
-1. Saber do contador se as obras estão no RET e se a DELI vende unidade ou constrói por empreitada.
-2. Com isso, o contador simular a carga de 2027 e dizer o que muda na rotina.
+**Ordem do pai (27/10/2026): contabilidade básica primeiro, reforma depois.**
+
+**Para a contabilidade básica, falta:**
+1. Conhecer o escritório de contabilidade e o que ele recebe e entrega (itens 2, 7 e 8).
+2. Saber se impostos, INSS e certidões estão em dia (itens 4, 5 e 6).
 
 | # | Item | Status | O que se sabe | Próximo passo |
 |---|---|---|---|---|
-| 1 | Urgência do pai | 🔴 | Reforma Tributária em 2027 (João, 27/10). Análise em `REFORMA_TRIBUTARIA.md` | Levar ao pai o resumo de 1 página e propor a conversa com o contador · João |
+| 1 | Urgência do pai | 🔴 | Contabilidade básica primeiro, reforma depois (pai, 27/10). Reforma já analisada em `REFORMA_TRIBUTARIA.md` | Seguir `PLANO_BASICO.md` · João |
 | 2 | Escritório de contabilidade | 🟡 | Nome e contato pendentes | Pegar com o pai · João |
 | 3 | Regime tributário | 🟡 | Lucro Presumido (João, 27/10). RET e patrimônio de afetação: pendente | Pergunta 1 ao contador |
 | 4 | Impostos e guias | 🟡 | Sem informação | Perguntar ao contador se há algo atrasado |

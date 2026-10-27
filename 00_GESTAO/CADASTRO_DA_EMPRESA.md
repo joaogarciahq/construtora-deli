@@ -17,7 +17,7 @@
 ## 2. Contabilidade, bancos e sistemas
 
 - **Regime tributario:** Lucro Presumido (Joao, 27/10/2026). Uso de RET ou patrimonio de afetacao: pendente.
-- **Urgencia do pai na contabilidade:** a Reforma Tributaria que entra em 2027 (Joao, 27/10/2026).
+- **Urgencia do pai na contabilidade:** primeiro a contabilidade basica em ordem; depois a Reforma Tributaria de 2027 (pai, via Joao, 27/10/2026).
 
 - Escritorio de contabilidade (nome, contato, o que faz): pendente
 - Bancos e contas usadas: pendente
