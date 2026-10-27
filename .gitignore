@@ -1,0 +1,6 @@
+_SENSIVEL/
+*.ofx
+Thumbs.db
+desktop.ini
+~$*
+.claude/settings.local.json
