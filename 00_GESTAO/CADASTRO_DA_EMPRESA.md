@@ -1,12 +1,27 @@
-# Cadastro da Empresa (preencher)
+# Cadastro da Empresa
 
-- Razao social e CNPJ:
-- Nome do pai (dono):
-- Nomes das irmas e papel de cada uma hoje:
-- Funcionarios do escritorio (nome, funcao):
-- Escritorio de contabilidade (nome, contato, o que faz):
-- Bancos e contas usadas:
-- Sistema/ERP ou planilhas em uso:
-- Empreendimentos ativos (nome, unidades, fase):
-- Relacao com a Caixa (correspondente, agencia, gerente):
-- Faixas do MCMV atendidas:
+> Preenchido com Joao. "Pendente" = ainda sem a informacao; Claude nao supoe.
+
+## 1. A empresa e as pessoas (atualizado 27/10/2026)
+
+- **Razao social e CNPJ:** pendente (Joao nao esta na construtora hoje; buscar no proximo acesso)
+- **Tempo de existencia da construtora:** pendente
+- **Dono:** Eduardo de Melo Garcia (pai de Joao). Decide tudo.
+- **Filhos e herdeiros:** Joao (o mais velho), Camila Albuquerque Garcia e Bruna Albuquerque Garcia.
+  - Joao: o unico dos tres que trabalha hoje; conduz a organizacao da empresa.
+  - Camila: trabalhou na empresa ate pouco tempo, junto com o marido, Rodrigo. Os dois se mudaram para o Rio de Janeiro (concurso publico dela).
+  - Bruna: nao trabalha na empresa.
+- **Escritorio:** nao ha funcionarios. O pai faz tudo; a mae de Joao ajuda um pouco (nome: pendente).
+- **Quem decide o que:** tudo e decidido pelo pai (compras, pagamentos, banco).
+
+## 2. Contabilidade, bancos e sistemas
+
+- Escritorio de contabilidade (nome, contato, o que faz): pendente
+- Bancos e contas usadas: pendente
+- Sistema/ERP ou planilhas em uso: pendente
+
+## 3. Empreendimentos e Caixa
+
+- Empreendimentos ativos (nome, unidades, fase): pendente
+- Relacao com a Caixa (correspondente, agencia, gerente): pendente
+- Faixas do MCMV atendidas: pendente
