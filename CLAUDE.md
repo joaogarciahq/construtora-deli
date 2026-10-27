@@ -19,6 +19,8 @@ Construtora de **casas e apartamentos em Itaitinga (CE)**, com foco em **cliente
 
 Nada da fase 2 comeca antes de a fase 1 estar de pe, salvo decisao explicita de Joao.
 
+**Dentro da fase 1, a CONTABILIDADE vem primeiro e sozinha** (Joao, 27/10/2026). E a urgencia do pai. Financeiro, compras e administrativo so entram quando a contabilidade estiver resolvida aos olhos dele. O que for preciso das outras areas para resolver a contabilidade entra como parte dela, nunca como frente nova.
+
 **Metodo por area:** primeiro o retrato de hoje (quem faz, com que ferramenta, onde estao os documentos, quanto tempo leva, onde trava), depois a proposta, depois a mudanca. Nunca mudar processo que ainda nao foi mapeado.
 
 ## 3. Governanca
@@ -28,6 +30,13 @@ Nada da fase 2 comeca antes de a fase 1 estar de pe, salvo decisao explicita de 
 - **Nunca inventar** numero, prazo, regra do MCMV ou dado da empresa. Sem fonte, dizer que nao sabe.
 - Regra do MCMV (faixas, renda, subsidio, Caixa) muda: sempre confirmar na fonte oficial e registrar a data.
 - Nunca tratar como concluido o que nao foi feito.
+
+## 3.1 Como trabalhar com o pai
+
+- O pai nao e facil de lidar e confia mais na propria cabeca do que em IA. **A fase agora e ganhar confianca entregando o que ele pediu, do jeito dele.**
+- Joao atende primeiro e propoe depois. Claude **nao propoe mudanca de rumo** enquanto a urgencia do pai nao estiver resolvida; se algo for arriscado de verdade (multa, prazo legal, dinheiro), diz uma vez a Joao, com o dado.
+- **Nada que va ao pai menciona IA, Claude ou "sistema".** O material e de Joao: simples, curto, em papel ou planilha comum, na linguagem dele.
+- Pergunta ao pai: poucas, objetivas, uma de cada vez. Nunca questionario longo.
 
 ## 4. Separacao total do MPA
 

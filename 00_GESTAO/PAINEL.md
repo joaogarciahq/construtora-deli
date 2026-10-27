@@ -1,15 +1,16 @@
 # Painel · Construtora DELI
 
-**Fase atual:** 1 (Contabilidade, Financeiro, Compras, Administrativo)
+**Fase atual:** 1 · **Frente unica agora: CONTABILIDADE** (urgencia do pai)
 
 ## Prioridade agora
-1. Conversa com o pai pelo `ROTEIRO_CONVERSA_COM_O_PAI.md`; com ela, preencher `CADASTRO_DA_EMPRESA.md`.
-2. Retrato do **Financeiro** (recomendacao: comecar por ele, porque caixa e o que mais pesa numa obra MCMV e e a base para a contabilidade).
+1. Saber de Joao/pai **o que exatamente e "urgente" na contabilidade** (o que esta atrasado, com quem, ate quando).
+2. Resolver isso, do jeito que o pai quer.
 
-## Por area (fase 1)
-| Area | Status | Proximo passo |
-|---|---|---|
-| Financeiro | nao iniciado | mapear contas, entradas, saidas, quem paga |
-| Contabilidade | nao iniciado | mapear escritorio contabil, o que envia, quando |
-| Compras | nao iniciado | mapear quem compra, fornecedores, aprovacao |
-| Administrativo | nao iniciado | mapear pessoas, documentos, rotinas |
+## Em espera (so depois da contabilidade resolvida)
+| Area | Status |
+|---|---|
+| Financeiro | em espera |
+| Compras | em espera |
+| Administrativo | em espera |
+
+`ROTEIRO_CONVERSA_COM_O_PAI` (28 perguntas): **guardado para depois**. Nao usar com o pai agora.
