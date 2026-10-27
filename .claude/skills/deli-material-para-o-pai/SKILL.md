@@ -15,7 +15,7 @@ description: Produz material que João leva ao pai (Eduardo) ou imprime: resumo 
 
 ## Como gerar o PDF
 1. Escreva o conteúdo em Markdown em `00_GESTAO/` ou na pasta da área (`#` título, `##` blocos, `1.` perguntas, `-` listas, `**negrito**`).
-2. Gere o HTML de impressão: `python3 .claude/scripts/gerar_impressao.py ARQUIVO.md ARQUIVO.html` (no Windows: `python`). Linhas para anotar saem embaixo de cada item numerado; use `--sem-linhas` para resumo.
+2. Gere o HTML de impressão: `python3 .claude/scripts/gerar_impressao.py ARQUIVO.md ARQUIVO.html` (no Windows: `python`). Linhas para anotar saem embaixo de cada item numerado; use `--sem-linhas` para resumo e `--linhas=2` para caber em uma página.
 3. PDF:
    - Onde houver Playwright (sessão na nuvem): `node .claude/scripts/html_para_pdf.js ARQUIVO.html ARQUIVO.pdf` (com `NODE_PATH=$(npm root -g)` se precisar).
    - No Dell: abrir o HTML no Edge ou Chrome → Ctrl+P → "Salvar como PDF".

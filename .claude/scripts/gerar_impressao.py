@@ -1,7 +1,8 @@
 """Gera HTML A4 de impressao a partir de um Markdown simples.
-Uso: python3 gerar_impressao.py ENTRADA.md SAIDA.html [--sem-linhas]"""
+Uso: python3 gerar_impressao.py ENTRADA.md SAIDA.html [--sem-linhas] [--linhas=N]"""
 import re,html,sys
 LINHAS='--sem-linhas' not in sys.argv
+N=next((int(a.split('=')[1]) for a in sys.argv if a.startswith('--linhas=')),3)
 src=open(sys.argv[1],encoding='utf-8').read()
 def inl(t):
     t=html.escape(t)
@@ -20,7 +21,7 @@ for l in src.splitlines():
     elif l.startswith('> '): out.append(f'<p class="meta">{inl(l[2:])}</p>')
     elif m:=re.match(r'^(\d+)\. (.*)',l):
         big=False
-        out.append(f'<div class="q"><p><span class="n">{m[1]}</span>{inl(m[2])}</p>'+('<div class="ln"></div>'*(5 if big else 3) if LINHAS else '')+'</div>')
+        out.append(f'<div class="q"><p><span class="n">{m[1]}</span>{inl(m[2])}</p>'+('<div class="ln"></div>'*N if LINHAS else '')+'</div>')
     elif l.strip(): out.append(f'<p>{inl(l)}</p>')
 if inlist: out.append('</ul>')
 css="""@page{size:A4;margin:16mm 16mm 18mm}body{font-family:'DejaVu Sans',Arial,sans-serif;font-size:10.5pt;color:#1a1a1a;line-height:1.4}
