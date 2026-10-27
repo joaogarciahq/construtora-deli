@@ -54,6 +54,12 @@ CPF, RG, renda, extratos, contratos de clientes e de funcionarios **nao entram n
 - `99_ARQUIVO/` o que saiu de uso. Nunca apagar, arquivar.
 - `_SENSIVEL/` fora do git
 
+## 6.1 Agentes e skills (`.claude/`)
+
+- **Agentes:** `contador` · `financeiro` · `compras` · `administrativo` · `pesquisador-regras` (regra oficial com link e data, antes de afirmar qualquer regra).
+- **Skills:** `deli-abrir-contexto` (inicio de sessao) · `deli-diagnostico-contabil` · `deli-conversa` (preparar e registrar conversa) · `deli-material-para-o-pai` (PDF de uma pagina, sem IA) · `deli-registrar` (gravar e salvar no GitHub).
+- **Hook:** `bloquear_dado_sensivel.py` barra commit com CPF.
+
 ## 7. A preencher (Joao)
 
 Ver `00_GESTAO/CADASTRO_DA_EMPRESA.md`. Enquanto estiver em branco, Claude pergunta, nao supoe.
