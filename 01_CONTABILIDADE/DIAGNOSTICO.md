@@ -2,7 +2,7 @@
 
 > Atualizado em 27/10/2026. 🔴 problema · 🟡 sem informação · 🟢 resolvido.
 
-**Ordem do pai (27/10/2026): contabilidade básica primeiro, reforma depois.**
+**Ordem do pai (27/10/2026): financeiro básico que gera documento → contabilidade básica → reforma.**
 
 **Para a contabilidade básica, falta:**
 1. Conhecer o escritório de contabilidade e o que ele recebe e entrega (itens 2, 7 e 8).

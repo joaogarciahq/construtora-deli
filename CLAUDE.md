@@ -19,7 +19,7 @@ Construtora de **casas e apartamentos em Itaitinga (CE)**, com foco em **cliente
 
 Nada da fase 2 comeca antes de a fase 1 estar de pe, salvo decisao explicita de Joao.
 
-**Dentro da fase 1, a CONTABILIDADE vem primeiro e sozinha** (Joao, 27/10/2026). E a urgencia do pai. Financeiro, compras e administrativo so entram quando a contabilidade estiver resolvida aos olhos dele. O que for preciso das outras areas para resolver a contabilidade entra como parte dela, nunca como frente nova.
+**A ordem dentro da fase 1 e uma corrente** (visao do pai, 27/10/2026): **financeiro basico que gera documento → contabilidade basica em ordem → Reforma Tributaria (2027).** O financeiro basico existe para produzir o papel que o contador precisa; sem isso, nem a contabilidade nem a reforma dao certo. Compras e administrativo entram so no que alimentar essa corrente (nota de compra, guarda de documento), nunca como frente propria por enquanto.
 
 **Metodo por area:** primeiro o retrato de hoje (quem faz, com que ferramenta, onde estao os documentos, quanto tempo leva, onde trava), depois a proposta, depois a mudanca. Nunca mudar processo que ainda nao foi mapeado.
 
