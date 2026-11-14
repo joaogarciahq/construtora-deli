@@ -7,3 +7,4 @@ Uma linha por decisao: data, o que foi decidido, quem decidiu, por que.
 - 27/10/2026 · Contabilidade vem primeiro e sozinha; demais areas em espera. Roteiro amplo com o pai guardado. Nada ao pai menciona IA · Joao (para atender a urgencia do pai e ganhar confianca)
 - 27/10/2026 · Contabilidade basica primeiro; Reforma Tributaria na sequencia. Material da reforma guardado ate la · pai (via Joao)
 - 27/10/2026 · Ordem da fase 1 vira corrente: financeiro basico que gera documento -> contabilidade basica -> reforma. Mes piloto: novembro/2026 · pai (via Joao)
+- 14/11/2026 · DELI nao opta pelo RET: fica no regime regular de IBS/CBS a partir de 2027; foco no redutor de ajuste (com redutor social, reducao de 50% e creditos) · pai, com Joao e o contador, em treinamento sobre a reforma

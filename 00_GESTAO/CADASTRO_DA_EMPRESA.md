@@ -16,7 +16,7 @@
 
 ## 2. Contabilidade, bancos e sistemas
 
-- **Regime tributario:** Lucro Presumido (Joao, 27/10/2026). Uso de RET ou patrimonio de afetacao: pendente.
+- **Regime tributario:** Lucro Presumido (Joao, 27/10/2026). RET: nao vai optar, decidido em 14/11/2026 (pai, com Joao e o contador). Patrimonio de afetacao: pendente.
 - **Urgencia do pai na contabilidade:** primeiro a contabilidade basica em ordem; depois a Reforma Tributaria de 2027 (pai, via Joao, 27/10/2026).
 
 - Escritorio de contabilidade (nome, contato, o que faz): pendente
