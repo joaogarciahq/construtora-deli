@@ -24,3 +24,11 @@
 | Cadastro Imobiliário Brasileiro (CIB) para todo imóvel e obra | LC 214, arts. 265, 266, 269 (prazo para Itaitinga não confirmado) |
 
 **Não confirmado:** alíquota cheia de referência; Decreto 12.955/2026 para imóveis; prazo do CIB em Itaitinga; mudança no IRPJ/CSLL do Presumido por outra lei.
+
+**Atualização 14/11/2026 (detalhes e links em `01_CONTABILIDADE/REDUTOR_DE_AJUSTE.md`):**
+- Decreto 12.955/2026 **confirmado**: regulamenta a CBS (DOU de 30/04/2026). A Resolução CGIBS 6/2026 regulamenta o IBS (arts. 369–381).
+- Redutor de ajuste da obra em andamento em 31/12/2026: terreno + custos anteriores a 2027 com documento fiscal idôneo + ITBI, laudêmio e contrapartidas (LC 214, art. 258, § 6º; decreto, art. 375). Correção pelo IPCA.
+- Redutor social: corrigido pelo IPCA desde 16/01/2025; valor atualizado não divulgado.
+- Venda com parcelas pagas antes de 2027: a parte do redutor dessas parcelas se perde (art. 262, § 5º).
+- NF-e ABI obrigatória a partir de 01/03/2027 (Ato Conjunto RFB/CGIBS 7/2026).
+- Alíquota da CBS 2027: o TCU calculou 11,3% (28/10/2026); o Senado ainda não fixou.
